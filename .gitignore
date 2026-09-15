@@ -137,3 +137,5 @@ dmypy.json
 # This project
 output/
 weights/
+output/
+weights/

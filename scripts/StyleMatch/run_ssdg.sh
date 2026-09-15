@@ -2,7 +2,7 @@
 
 cd ../..
 
-DATA=~/kaiyang/data
+DATA=/Users/bimsaraperera/Research/data
 
 DATASET=$1
 NLAB=$2 # total number of labels
